@@ -1,5 +1,5 @@
 ## 안녕하세요, 저는 우원하 입니다. 👋
-![AWS Certified DevOps Engineer – Professional](https://images.credly.com/size/340x340/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)
+<img src="https://images.credly.com/size/340x340/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="100" alt="AWS Certified Developer Badge" />
 
 <!--
 **vvonha/vvonha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
