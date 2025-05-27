@@ -1,5 +1,18 @@
-## 안녕하세요, 저는 우원하 입니다. 👋
-<img src="https://images.credly.com/size/340x340/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="100" alt="AWS Certified Developer Badge" />
+<p align="left">
+  <a href="https://www.credly.com/badges/044e833d-6037-4a4d-856d-a5dfd15bf561/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="80" alt="AWS Certified Solutions Architect – Professional" />
+  </a>
+  <a href="https://www.credly.com/badges/a72f27fc-3733-4c05-9812-af56e4631237/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="80" alt="AWS Certified DevOps Engineer – Professional" />
+  </a>
+  <a href="https://www.credly.com/badges/0cebd9a6-8ceb-4947-b252-8a36701fd3d5/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="80" alt="CKA: Certified Kubernetes Administrator" />
+  </a>
+  <a href="https://www.credly.com/badges/e43bf668-9880-4898-ae09-d3d476f8c550/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="80" alt="Microsoft Certified: Azure AI Fundamentals" />
+  </a>
+</p>
+
 
 <!--
 **vvonha/vvonha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
